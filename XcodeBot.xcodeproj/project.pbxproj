@@ -272,6 +272,7 @@
 				CODE_SIGN_ENTITLEMENTS = XcodeBot/XcodeBot.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = MZ8DBMHCAM;
 				INFOPLIST_FILE = XcodeBot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -290,6 +291,7 @@
 				CODE_SIGN_ENTITLEMENTS = XcodeBot/XcodeBot.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = MZ8DBMHCAM;
 				INFOPLIST_FILE = XcodeBot/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
